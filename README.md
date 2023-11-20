@@ -2,6 +2,8 @@
 
 O FreeCodeCamp é uma organização beneficente, insenta de impostos e apoaida por doações.
 
+-[Visite o site da FreeCodeCampe](https://www.freecodecamp.org/learn)
+
 🔖 Projeto
 
 Aprenda HTML criando um aplicativo de fotos de gatos.
