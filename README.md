@@ -2,7 +2,9 @@
 
 O FreeCodeCamp é uma organização beneficente, insenta de impostos e apoaida por doações.
 
-A missão: ajudar as pessoas a aprender a programar de graça. Eles conseguiram isso através da criação de milhares de vídeos, artigos e aulas interativas de programação – tudo disponível gratuitamente para o público. 
+👨‍💻 Missão 
+
+A missão da FreeCodeCamp é ajudar as pessoas a aprender a programar de graça. Eles conseguiram isso através da criação de milhares de vídeos, artigos e aulas interativas de programação – tudo disponível gratuitamente para o público. 
 
 - [Visite o site da FreeCodeCamp](https://www.freecodecamp.org/learn)
 
