@@ -5,7 +5,7 @@ O FreeCodeCamp é uma organização beneficente, insenta de impostos e apoaida p
 🔖 Projeto
 
 Aprenda HTML criando um aplicativo de fotos de gatos.
-- [Viste o projeto online](gabrielaspenha.github.io/App-Fotos-de-Gatos)
+- [Viste o projeto online](http://gabrielaspenha.github.io/App-Fotos-de-Gatos)
 
 🚀 Tecnologias
 
