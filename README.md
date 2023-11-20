@@ -2,7 +2,7 @@
 
 O FreeCodeCamp é uma organização beneficente, insenta de impostos e apoaida por doações.
 
--[Visite o site da FreeCodeCampe](https://www.freecodecamp.org/learn)
+- [Visite o site da FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 🔖 Projeto
 
